@@ -1,4 +1,4 @@
-# chatui
+# ChatApp
 
 A new Flutter project.
 
